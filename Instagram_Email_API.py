@@ -11,7 +11,7 @@ creds = service_account.Credentials.from_service_account_file(
         SERVICE_ACCOUNT_FILE, scopes=SCOPES)
 
 # The ID and range of a sample spreadsheet.
-SAMPLE_SPREADSHEET_ID = '1sU7IhpRAYVKTss3MZyjlrEiUaiMsPANG_Q4LdK2BhC4' #Emails Collected - In Google Drive (blackgamer367@gmail.com)
+SAMPLE_SPREADSHEET_ID = '1sU7IhpRAYVKTss3MZyjlrEiUaiMsPANG_Q4LdK2BhC4' #Emails Collected - In Google Drive (xxxxx@gmail.com)
 SAMPLE_RANGE_NAME = 'Class Data!A2:E'
 
 
